@@ -1,0 +1,16 @@
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\bin\Debug\netstandard2.0\GaleriaXamarin.deps.json
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\bin\Debug\netstandard2.0\GaleriaXamarin.dll
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\bin\Debug\netstandard2.0\GaleriaXamarin.pdb
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.csproj.AssemblyReference.cache
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.AssemblyInfoInputs.cache
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.AssemblyInfo.cs
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.csproj.CoreCompileInputs.cache
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.dll
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\refint\GaleriaXamarin.dll
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\GaleriaXamarin.pdb
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\ref\GaleriaXamarin.dll
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\obj\Debug\netstandard2.0\CarouselView.xaml.g.cs

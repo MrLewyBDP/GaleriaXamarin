@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GaleriaXamarin.MainPage">
+
+        
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="but1" Clicked="but1_Clicked" Text="Ryby" Grid.Row="0" Grid.Column="0"></Button>
+        <Button x:Name="but2" Clicked="but2_Clicked" Text="Gady" Grid.Row="0" Grid.Column="1"></Button>
+        <Button x:Name="but3" Clicked="but3_Clicked" Text="Płazy" Grid.Row="0" Grid.Column="2"></Button>
+        <Button x:Name="but4" Clicked="but4_Clicked" Text="Ssaki" Grid.Row="0" Grid.Column="3"></Button>
+        <StackLayout Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0">
+            <Label x:Name="lr1c0" HorizontalTextAlignment="Center"></Label>
+            <ImageButton x:Name="ir1c0" HeightRequest="200" WidthRequest="100" BackgroundColor="Transparent" Clicked="ir1c0_Clicked"></ImageButton>
+        </StackLayout>
+        <StackLayout Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="2">
+            <Label x:Name="lr1c1" HorizontalTextAlignment="Center"></Label>
+            <ImageButton x:Name="ir1c1" HeightRequest="200" WidthRequest="100" BackgroundColor="Transparent" Clicked="ir1c1_Clicked"></ImageButton>
+        </StackLayout>
+        <StackLayout Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="0">
+            <Label x:Name="lr2c0" HorizontalTextAlignment="Center"></Label>
+            <ImageButton x:Name="ir2c0" HeightRequest="200" WidthRequest="100" BackgroundColor="Transparent" Clicked="ir2c0_Clicked"></ImageButton>
+        </StackLayout>
+        <StackLayout Grid.Row="2" Grid.ColumnSpan="2" Grid.Column="2">
+            <Label x:Name="lr2c1" HorizontalTextAlignment="Center"></Label>
+            <ImageButton x:Name="ir2c1" HeightRequest="200" WidthRequest="100" BackgroundColor="Transparent" Clicked="ir2c1_Clicked"></ImageButton>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
