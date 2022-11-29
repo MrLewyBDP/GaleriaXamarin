@@ -15,56 +15,56 @@ namespace GaleriaXamarin
         public int iloscPodzialow;
         Obiekt Ryby = new Obiekt(
                 new string[] { "Morskie", "Słodkowodne" },
-                new string[] { "morskie.png", "slodkie.png" },
+                new string[] { "morskie.jpg", "slodkie.jpg" },
                 new PodObiekt[] {
-                    new PodObiekt(0, "makrela", "makrela.png", "makrela jest rybą morską"),
-                    new PodObiekt(0, "śledź", "sledz.png", "śledź jest rybą morską"),
-                    new PodObiekt(0, "tuńczyk", "tunczyk.png", "tuńczyk jest rybą morską"),
-                    new PodObiekt(1, "karp", "karp.png", "karp jest rybą słodkowodną"),
-                    new PodObiekt(1, "karaś", "karas.png", "karaś jest rybą słodkowodną"),
-                    new PodObiekt(1, "pstrąg", "pstrag.png", "pstrąg jest rybą słodkowodną")
+                    new PodObiekt(0, "makrela", "makrela.jpg", "makrela jest rybą morską"),
+                    new PodObiekt(0, "śledź", "sledz.jpg", "śledź jest rybą morską"),
+                    new PodObiekt(0, "tuńczyk", "tunczyk.jpg", "tuńczyk jest rybą morską"),
+                    new PodObiekt(1, "karp", "karp.jpg", "karp jest rybą słodkowodną"),
+                    new PodObiekt(1, "karaś", "karas.jpg", "karaś jest rybą słodkowodną"),
+                    new PodObiekt(1, "pstrąg", "pstrag.jpg", "pstrąg jest rybą słodkowodną")
                 }
             );
         Obiekt Gady = new Obiekt(
             new string[] { "Węże", "Jaszczurki", "Żółwie", "Krokodyle" },
-            new string[] { "weze.png", "jaszczurki.png", "zolwie.png", "krokodyle.png" },
+            new string[] { "weze.jpg", "jaszczurki.jpg", "zolwie.jpg", "krokodyle.jpg" },
             new PodObiekt[] {
-                    new PodObiekt(0, "Gniewosz Plamisty", "gniewosz.png", "Gniewosz Pospolity jest wężem"),
-                    new PodObiekt(0, "Wąż Eskulapa", "eskulapa.png", "Wąż Eskulapa jest wężem"),
-                    new PodObiekt(0, "Żmija Zygzakowata", "zmija.png", "Żmija Zygzakowata jest wężem"),
-                    new PodObiekt(0, "Zaskroniec Zwyczajny", "zaskroniec.png", "Zaskroniec Zwyczajny jest wężem"),
-                    new PodObiekt(1, "jaszczurka zwinka", "zwinka.png", "jaszczurka zwinka jest jaszczurką"),
-                    new PodObiekt(1, "padalec", "padalec.png", "padalec jest jaszczurką"),
-                    new PodObiekt(1, "jaszczurka żyworodna", "zyworodna.png", "jaszczurka żyworodna jest jaszczurką"),
-                    new PodObiekt(1, "murówka zwyczajna", "murowka.png", "murówka zwyczajna jest jaszczurką"),
-                    new PodObiekt(2, "Żółw Błotny", "blotny.png", "Żółw Błotny jest żółwiem"),
-                    new PodObiekt(3, "Krokodyl Amerykański", "amerykanski.png", "Krokodyl Amerykański jest krokodylem"),
-                    new PodObiekt(3, "Krokodyl Australijski", "australijski.png", "Krokodyl Australijski jest krokodylem")
+                    new PodObiekt(0, "Gniewosz Plamisty", "gniewosz.jpg", "Gniewosz Pospolity jest wężem"),
+                    new PodObiekt(0, "Wąż Eskulapa", "eskulapa.jpg", "Wąż Eskulapa jest wężem"),
+                    new PodObiekt(0, "Żmija Zygzakowata", "zmija.jpg", "Żmija Zygzakowata jest wężem"),
+                    new PodObiekt(0, "Zaskroniec Zwyczajny", "zaskroniec.jpg", "Zaskroniec Zwyczajny jest wężem"),
+                    new PodObiekt(1, "jaszczurka zwinka", "zwinka.jpg", "jaszczurka zwinka jest jaszczurką"),
+                    new PodObiekt(1, "padalec", "padalec.jpg", "padalec jest jaszczurką"),
+                    new PodObiekt(1, "jaszczurka żyworodna", "zyworodna.jpg", "jaszczurka żyworodna jest jaszczurką"),
+                    new PodObiekt(1, "murówka zwyczajna", "murowka.jpg", "murówka zwyczajna jest jaszczurką"),
+                    new PodObiekt(2, "Żółw Błotny", "blotny.jpg", "Żółw Błotny jest żółwiem"),
+                    new PodObiekt(3, "Krokodyl Amerykański", "amerykanski.jpg", "Krokodyl Amerykański jest krokodylem"),
+                    new PodObiekt(3, "Krokodyl Australijski", "australijski.jpg", "Krokodyl Australijski jest krokodylem")
             }
         );
         Obiekt Plazy = new Obiekt(
             new string[] { "Płazy ogoniaste", "Płazy bezogonowe" },
-            new string[] { "ogoniaste.png", "bezogonowe.png" },
+            new string[] { "ogoniaste.jpg", "bezogonowe.jpg" },
             new PodObiekt[] {
-                    new PodObiekt(0, "Salamandra Plamista", "salamandra.png", "Salamandra Plamista jest płazem ogoniastym"),
-                    new PodObiekt(0, "Traszka Zwyczajna", "zwyczajna.png", "Traszka Zwyczajna jest płazem ogoniastym"),
-                    new PodObiekt(0, "Traszka Grzebieniasta", "grzebieniasta.png", "Traszka Grzebieniasta jest płazem ogoniastym"),
-                    new PodObiekt(1, "Grzebiuszka Ziemna", "ziemna.png", "Grzebiuszka Ziemna jest płazem bezogonowym"),
-                    new PodObiekt(1, "Ropucha Szara", "ropucha.png", "Ropucha Szara jest płazem bezogonowym")
+                    new PodObiekt(0, "Salamandra Plamista", "salamandra.jpg", "Salamandra Plamista jest płazem ogoniastym"),
+                    new PodObiekt(0, "Traszka Zwyczajna", "zwyczajna.jpg", "Traszka Zwyczajna jest płazem ogoniastym"),
+                    new PodObiekt(0, "Traszka Grzebieniasta", "grzebieniasta.jpg", "Traszka Grzebieniasta jest płazem ogoniastym"),
+                    new PodObiekt(1, "Grzebiuszka Ziemna", "ziemna.jpg", "Grzebiuszka Ziemna jest płazem bezogonowym"),
+                    new PodObiekt(1, "Ropucha Szara", "ropucha.jpg", "Ropucha Szara jest płazem bezogonowym")
             }
         );
         Obiekt Ssaki = new Obiekt(
             new string[] { "Stekowce", "Torbacze", "Łożyskowce" },
-            new string[] { "stekowce.png", "torbacze.png", "lozyskowce.png" },
+            new string[] { "stekowce.jpg", "torbacze.jpg", "lozyskowce.jpg" },
             new PodObiekt[] {
-                    new PodObiekt(0, "Dziobak", "dziobak.png", "Dziobak jest stekowcem"),
-                    new PodObiekt(0, "Kolczatka", "kolczatka.png", "Kolczatka jest stekowcem"),
-                    new PodObiekt(1, "Kangur", "kangur.png", "Kangur jest torbaczem"),
-                    new PodObiekt(1, "Koala", "koala.png", "Koala jest torbaczem"),
-                    new PodObiekt(1, "wiewiórka workowata", "workowata.png", "wiewiórka workowata jest torbaczem"),
-                    new PodObiekt(2, "Człowiek", "czlowiek.png", "Człowiek jest łożyskowcem"),
-                    new PodObiekt(2, "Świnia", "swinia.png", "Świnia jest łożyskowcem"),
-                    new PodObiekt(2, "Królik", "krolik.png", "Królik jest łożyskowcem"),
+                    new PodObiekt(0, "Dziobak", "dziobak.jpg", "Dziobak jest stekowcem"),
+                    new PodObiekt(0, "Kolczatka", "kolczatka.jpg", "Kolczatka jest stekowcem"),
+                    new PodObiekt(1, "Kangur", "kangur.jpg", "Kangur jest torbaczem"),
+                    new PodObiekt(1, "Koala", "koala.jpg", "Koala jest torbaczem"),
+                    new PodObiekt(1, "wiewiórka workowata", "workowata.jpg", "wiewiórka workowata jest torbaczem"),
+                    new PodObiekt(2, "Człowiek", "czlowiek.jpg", "Człowiek jest łożyskowcem"),
+                    new PodObiekt(2, "Świnia", "swinia.jpg", "Świnia jest łożyskowcem"),
+                    new PodObiekt(2, "Królik", "krolik.jpg", "Królik jest łożyskowcem"),
             }
         );
         public MainPage()

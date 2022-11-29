@@ -663,3 +663,12 @@ D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\D
 D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\zwinka.jpg
 D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\zwyczajna.jpg
 D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\zyworodna.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\amerykanski.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\australijski.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\bezogonowe.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\blotny.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\czlowiek.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\dziobak.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\eskulapa.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\gniewosz.jpg
+D:\GIT\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin\GaleriaXamarin.Android\obj\Debug\120\res\drawable\grzebieniasta.jpg

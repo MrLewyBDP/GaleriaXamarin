@@ -4,9 +4,27 @@
              x:Class="GaleriaXamarin.Page1">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <CarouselView ItemsSource="{Binding PodObiektyOC}" IndicatorView="indicatorView">
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout>
+                            <Frame HasShadow="True"
+                            BorderColor="DarkGray"
+                            CornerRadius="5"
+                            Margin="20"
+                            HorizontalOptions="Center"
+                            VerticalOptions="CenterAndExpand">
+                                <StackLayout>
+                                    <Label Text="{Binding nazwa}" FontAttributes="Bold" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                                    <Image Source="{Binding zdjecie}" Aspect="AspectFill" HorizontalOptions="Center"></Image>
+                                    <Label x:Name="opis" Text="{Binding opis}" FontAttributes="Italic" HorizontalOptions="Center"></Label>
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+            <IndicatorView x:Name="indicatorView" Margin="20,20,20,20" IndicatorColor="LightGray" SelectedIndicatorColor="DarkGray" HorizontalOptions="Center" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
