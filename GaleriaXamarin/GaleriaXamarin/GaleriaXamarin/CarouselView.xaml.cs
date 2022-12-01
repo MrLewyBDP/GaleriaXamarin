@@ -13,17 +13,10 @@ namespace GaleriaXamarin
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page1 : ContentPage
     {
-        Obiekt Wybrany;
-        int podzialKlik;
-        List<PodObiekt> podObiekty = new List<PodObiekt>();
         public ObservableCollection<PodObiekt> PodObiektyOC { get; set; } = new ObservableCollection<PodObiekt>();
         
         public Page1(Obiekt Wybrany, int podzialKlik)
         {
-            this.Wybrany = Wybrany;
-            this.podzialKlik = podzialKlik;
-            
-            PodObiekt[] podObiektyArray = podObiekty.ToArray();
             InitializeComponent();
             BindingContext = this;
             for (int i = 0; i < Wybrany.podPodzial.Length; i++)
@@ -33,9 +26,6 @@ namespace GaleriaXamarin
                     PodObiektyOC.Add(Wybrany.podPodzial[i]);
                 }
             }
-
-
-
         }
     }
 }
