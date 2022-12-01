@@ -26,9 +26,6 @@ namespace GaleriaXamarin
                     PodObiektyOC.Add(Wybrany.podPodzial[i]);
                 }
             }
-
-
-
         }
     }
 }
